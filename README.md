@@ -1,6 +1,8 @@
 # calculadora_imc
 
-A new Flutter project.
+Uma Simples Calculadora de IMC desenvolvida em Flutter.
+
+Para esse projeto foi utizada arquetetura MVC.
 
 ## Getting Started
 
