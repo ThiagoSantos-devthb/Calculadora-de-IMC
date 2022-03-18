@@ -2,7 +2,9 @@
 
 Uma Simples Calculadora de IMC desenvolvida em Flutter.
 
-Para esse projeto foi utizada arquetetura MVC.
+Para esse projeto foi utizada arquitetura MVC.
+
+
 
 <p align="center">
 <img src="https://github.com/ThiagoSantos-devthb/Calculadora-de-IMC/blob/main/Screenshot_20220301-034733.png"/>
